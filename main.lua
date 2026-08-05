@@ -186,7 +186,7 @@ function MainModule.GetAccountAge()
         return string.format("%d days", days)
     end
 end
-
+ 
 function MainModule.GetAccountAgeWarning()
     local days = LocalPlayer.AccountAge
     if days < 30 then
