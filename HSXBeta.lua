@@ -1,4 +1,4 @@
--- this is a deobfuscated version 
+-- this is a deobfuscated version (this source is very old)
 local r24 = loadstring(v1.HttpGet(v1, "https://raw.githubusercontent.com/deividcomsono/Obsidian/main/Library.lua"))();
 local v2 = game;
 local r25 = loadstring(v2.HttpGet(v2, "https://raw.githubusercontent.com/deividcomsono/Obsidian/main/addons/ThemeManager.lua"))();
